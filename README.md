@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 Hi, I’m Sayantan Roy — a Graduate Software Engineer at Cognizant, passionate about building scalable software and exploring advanced research in AI, mathematics, and computational science.
 
 🚀 What I Do
