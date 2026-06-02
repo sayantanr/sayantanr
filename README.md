@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Sayantan Roy
 
-Graduate Software Engineer at **Cognizant** | Researcher in **Linguistics, AI, Computer Vision & Mathematical Computing**
+I am an **** AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder || trader ||mathematician||hindu** **
+
+EX Software Engineer at **Cognizant** | Researcher in **Linguistics, AI, Computer Vision & Mathematical Computing**
 
 I’m passionate about building **scalable enterprise software** and conducting **advanced interdisciplinary research** across AI, mathematics, language systems, and computational science.
 
