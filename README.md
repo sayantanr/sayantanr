@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sayantan Roy
 
-I am an ** AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder || trader ||mathematician||hindu** 
+I am an **AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder || trader ||mathematician||hindu** 
 
 EX Software Engineer at **Cognizant** | Researcher in **Linguistics, AI, Computer Vision & Mathematical Computing**
 
