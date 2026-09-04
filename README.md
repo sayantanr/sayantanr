@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Sayantan Roy
 
-I am an **Computer Scientist||AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder || trader ||mathematician||hindu** 
+I am an **Computer Scientist||AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder|| trader||astrophysicist || quantum physicist || mathematician||hindu** 
 
-EX Software Engineer at **Cognizant** | Researcher in **Linguistics, AI, Computer Vision & Mathematical Computing**
+EX Software Engineer at **Cognizant** | Researcher in **Linguistics,astrophysics, quantum physics, AI, Computer Vision & Mathematical Computing**
 
 I’m passionate about building **scalable enterprise software** and conducting **advanced interdisciplinary research** across AI, mathematics, language systems, and computational science.
 
