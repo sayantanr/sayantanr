@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Sayantan Roy
 
-I am an **Computer Scientist||AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder|| trader||astrophysicist || quantum physicist || mathematician||hindu** 
+I am an **Computer Scientist||AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder|| trader||astrophysicist || quantum physicist || mathematician||Historian || Anthropologist || Geographer || hindu** 
+
+** My ORCID ID :0009-0004-1761-2609 **
 
 EX Software Engineer at **Cognizant** | Researcher in **Linguistics,astrophysics, quantum physics, AI, Computer Vision & Mathematical Computing**
 
