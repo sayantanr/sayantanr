@@ -2,9 +2,9 @@
 
 I am an **Computer Scientist||AI Scientist ||indologist ||economist || artist ||multilinguist|| writer || coder|| trader||astrophysicist || quantum physicist || mathematician||Historian || Anthropologist || Geographer || hindu** 
 
-** My ORCID ID :0009-0004-1761-2609 **
+ **My ORCID ID :0009-0004-1761-2609** 
 
-EX Software Engineer at **Cognizant** | Researcher in **Linguistics,astrophysics, quantum physics, AI, Computer Vision & Mathematical Computing**
+EX Software Engineer at **Cognizant** | Researcher in **Linguistics,astrophysics, quantum physics, AI, Computer Vision , anthropology ,& Mathematical Computing**
 
 I’m passionate about building **scalable enterprise software** and conducting **advanced interdisciplinary research** across AI, mathematics, language systems, and computational science.
 
