@@ -9,6 +9,12 @@ EX Software Engineer at **Cognizant** | Researcher in **Linguistics,astrophysics
 I’m passionate about building **scalable enterprise software** and conducting **advanced interdisciplinary research** across AI, mathematics, language systems, and computational science.
 
 > *“Where language, logic, and learning meet — that’s where I work.”*
+> Researchgate:https://www.researchgate.net/profile/Sayantan-Roy-14?ev=hdr_xprf
+> Book:
+>  The Theory of Eveything
+> The Silent Migration Theory 
+> 
+> 
 
 ---
 
